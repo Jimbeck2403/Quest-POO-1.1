@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ef843b7-5061-4606-8947-391bf5d551ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1ZuIKPIGrxJNMk7cGdRAwOmBlk2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Car.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Car.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.Car.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ef843b7-5061-4606-8947-391bf5d551ec" name="Default Changelist" comment="" />
+      <created>1585682487045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585682487045</updated>
+      <workItem from="1585682488510" duration="1676000" />
+      <workItem from="1585731980459" duration="2461000" />
+      <workItem from="1585818486190" duration="3788000" />
+      <workItem from="1585826649196" duration="3343000" />
+      <workItem from="1585833630715" duration="18345000" />
+      <workItem from="1585894991707" duration="683000" />
+      <workItem from="1585899085346" duration="119000" />
+      <workItem from="1586084289450" duration="18664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="125" y="144" width="641" height="637" key="#Car.php" timestamp="1586113971917">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="125" y="144" width="641" height="637" key="#Car.php/67.27.1533.873@67.27.1533.873" timestamp="1586113971917" />
+    <state x="428" y="124" width="800" height="677" key="#Inspections" timestamp="1585826631712">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="428" y="124" width="800" height="677" key="#Inspections/67.27.1533.873@67.27.1533.873" timestamp="1585826631712" />
+    <state x="516" y="190" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585822314757">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="516" y="190" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1533.873@67.27.1533.873" timestamp="1585822314757" />
+    <state x="566" y="211" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586084346903">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="566" y="211" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1533.873@67.27.1533.873" timestamp="1586084346903" />
+    <state x="233" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585899110482">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="233" y="220" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1585899110482" />
+    <state x="630" y="388" width="397" height="149" key="NewPhpFileDialog" timestamp="1586084930938">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="630" y="388" width="397" height="149" key="NewPhpFileDialog/67.27.1533.873@67.27.1533.873" timestamp="1586084930938" />
+    <state x="492" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1585899085692">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="492" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1585899085692" />
+    <state x="613" y="155" width="431" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585825506551">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="613" y="155" width="431" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1533.873@67.27.1533.873" timestamp="1585825506551" />
+  </component>
+</project>
