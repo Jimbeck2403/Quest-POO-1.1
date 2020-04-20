@@ -80,5 +80,8 @@ class Truck extends Vehicle
     {
         $this->loading = $loading;
     }
+    public function start():string{
+        return "BRRRRRRRRRRRRRRRRRRRR";
+    }
 
 }

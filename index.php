@@ -10,8 +10,11 @@ require_once 'Truck.php';
 
 $green =  new Truck ('yellow', 2, 'diesel', 150);
 
-echo $green->tank();
+echo $green->start();
 var_dump($green);
+
+
+
 
 
 

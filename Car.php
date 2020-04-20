@@ -52,4 +52,7 @@ class Car extends Vehicle
     {
         $this->energyLevel = $energyLevel;
     }
+    public function start():string{
+        return "BRRRRRRRRRRRRRRRRRRRR";
+    }
 }
